@@ -1,6 +1,3 @@
-# ping-status-checker
-A simple Bash script built while learning Linux networking, ping diagnostics, and packet loss calculation.
-
  # ping-status-checker
 
 A beginner-friendly **Bash practice script** built while learning Linux networking fundamentals, `ping` diagnostics, and basic packet loss calculation.
