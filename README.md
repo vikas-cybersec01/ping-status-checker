@@ -12,4 +12,4 @@ A beginner-friendly **Bash practice script** built while learning Linux networki
 ## How to Run
 ```bash
 chmod +x network.sh
-./network.sh google.com
+./Network.sh google.com
