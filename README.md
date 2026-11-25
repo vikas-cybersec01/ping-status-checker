@@ -11,5 +11,5 @@ A beginner-friendly **Bash practice script** built while learning Linux networki
 
 ## How to Run
 ```bash
-chmod +x network.sh
+chmod +x Network.sh
 ./Network.sh google.com
